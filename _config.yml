@@ -1,7 +1,7 @@
 name: ProgressumConsulting
 favicon: null
-layout_spectrum: 0.7253581646364182
-typography_spectrum: 0.536351851420477
+layout_spectrum: 0.74682
+typography_spectrum: 0.65426
 title: ProgressumConsulting
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.8606662238016725
-  lightness: 0.9301257741171867
-  saturation: 0.22671585204079747
-  rhythmicContrast: 0.02415147447027266
+    - '#ffffff'
+    - '#005e00'
+    - '#3f8640'
+    - '#92278f'
+    - '#ae5dac'
+  brandStrength: 0.8125
+  lightness: 0.5625
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
